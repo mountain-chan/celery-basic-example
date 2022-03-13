@@ -5,6 +5,12 @@
 ## Broker: redis
 * Redis for Windows: [https://github.com/tporadowski/redis/releases](https://github.com/tporadowski/redis/releases)
 
+## Installation packages
+Python 3.7
+```commandline
+pip install -r requirements.txt
+```
+
 ## Running the Celery worker server
 * Ubuntu
 ```commandline
